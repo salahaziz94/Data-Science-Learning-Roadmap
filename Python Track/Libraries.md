@@ -1,11 +1,11 @@
-# Basics-of-Libaries
+# Basics of Libaries
 If I want to use a module in python, I can use the import _keyword_ to do that. From there, _all_ the associated functions with the particular module will work. 
 
 E.g., import random means that if i do random.choice(), the function will always need to associate with the random module.
 
 But I can use from random import choice, which allows my codespace to just borrow that function and I can call choice() without using the random keyword. This has drawbacks if my code needs more functions, or if I want to associate those functions with the module for memory.
 
-# Command-Line-Arguments
+# Command Line Arguments
 The function of sys.argv, from the sys module? is used for _command line arguments_, where the advantage here is we don't need a human to sit at the computer to input something. 
 
 E.g., print("hello, my name is ", sys.argv[1]). 
@@ -37,9 +37,22 @@ Using the requests package, we can use _requests.get()_ to specify a URL to get 
 
 We can use the JSON library to read/manipulate JSON data if it is requested from the internet. In the tutorial video, the json.dumps() function grabbed all the string data from the JSON on the requests URL, if we wanted it. 
 
+One of the shorts I watched documents that we can pass an input function to a parameter that does a search query in an API, which shows that we can try to be creative as to how a user can interact with it.
 # Making Our Own Libraries 
 We can import our own functions via the same import _library_ that we made, and import the exact function we created somewhere else. 
 
 However, if we import a function from another file, it will call _everything_, which we may not even want or need. 
 
 "_ _name_ _ "  allows us to ignore the main() function that is in another file. 
+
+To make our own _packages_, we create our own folder, with our own py files that can act as modules, and they should be stored in that respective folder. We would need to also make a _ _init_ _ _.py_ file in the same folder. So, we would do:  _from package.module_import function_, where doing so consolidates functions and modules under one umbrella.
+
+# PEP 8 
+The agreed-upon standards of Python. These do function as guidelines, rather than hard and fast rules. Readability is king.
+	There needs to be indentation.
+	Tabs or spaces? Spaces of four! Although hitting the 'tab' key should provide four spaces.
+	Limit all lines to a maximum of 79 characters. For flowing long blocks of text with fewer structural restrictions (docstrings or comments), the line length should be limited to 72 characters.
+	Adding blank lines adds for more readability.
+_Pylint_ is a package that allows for helping with this, but it may be too overwhelming with criticisms.
+_Pycodestyle_ is the defacto standard package for formatting.
+_Black_ is an 'opinionated', uncompromising package for formatting.

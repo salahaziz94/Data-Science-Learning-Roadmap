@@ -3,10 +3,10 @@
 		{"id":"4e106ee71a150219","type":"group","x":-2260,"y":-900,"width":1357,"height":1120,"label":"Programming"},
 		{"id":"09641cba5366d415","type":"group","x":-880,"y":-900,"width":540,"height":882,"label":"Machine Learning"},
 		{"id":"9bc8bb87ba0c5bc2","type":"group","x":-280,"y":-900,"width":395,"height":602,"label":"Math Skills"},
+		{"id":"1c5c2c4a7f410391","x":-1965,"y":-500,"width":290,"height":551,"type":"group","label":"Specific Libraries"},
 		{"id":"ba231b840e960b19","type":"text","text":"[[Loops]]\n[[Exceptions]]\n[[Libraries]]","x":-2240,"y":-200,"width":250,"height":220,"color":"#00fa00"},
 		{"id":"ea914f6b4fbbcaf3","type":"text","text":"[CS50P](https://cs50.harvard.edu/python/)","x":-2210,"y":-447,"width":190,"height":50,"color":"#00fa00"},
 		{"id":"872b3d0749e8ed35","type":"text","text":"Python Track","x":-2240,"y":-710,"width":250,"height":60,"color":"#00fa00"},
-		{"id":"8d91a0fff03ecd32","type":"text","text":"Specific Libraries","x":-1945,"y":-580,"width":250,"height":60,"color":"#00fa00"},
 		{"id":"228e55c1711a2780","type":"text","text":"numpy","x":-1945,"y":-480,"width":97,"height":50,"color":"#00fa00"},
 		{"id":"ec278596ddc05a85","type":"text","text":"pandas","x":-1945,"y":-390,"width":104,"height":50,"color":"#00fa00"},
 		{"id":"01f0a500a621ea97","type":"text","text":"matplotlib","x":-1945,"y":-300,"width":136,"height":51,"color":"#00fa00"},
@@ -15,7 +15,7 @@
 		{"id":"ae1b64775683bda9","type":"text","text":"sci-kit learn","x":-1945,"y":-119,"width":180,"height":50,"color":"#00fa00"},
 		{"id":"ea396b328aa7a4c8","type":"text","text":"Fix/Update ADNI Scripts","x":-1605,"y":-477,"width":250,"height":60,"color":"#0000fa"},
 		{"id":"1330b4d0ed2ab333","type":"text","text":"tidyverse/ggplot/tidymodels","x":-1605,"y":-377,"width":250,"height":90,"color":"#0000fa"},
-		{"id":"e05394711970e7ce","type":"text","text":"SQL Track","x":-1240,"y":-710,"width":250,"height":60,"color":"6"},
+		{"id":"e05394711970e7ce","type":"text","text":"[[SQL Track]]","x":-1240,"y":-710,"width":250,"height":60,"color":"6"},
 		{"id":"a75bf3ee54b0cb38","type":"text","text":"R Track","x":-1605,"y":-700,"width":250,"height":50,"color":"#0000fa"},
 		{"id":"de7983aa8d29774d","type":"text","text":"**Texts** \n\nISLR","x":-1395,"y":-252,"width":280,"height":180,"color":"#0000fa"},
 		{"id":"2981bb799e4f08da","type":"text","text":"Numeracy","x":-260,"y":-875,"width":250,"height":60,"color":"2"},
@@ -23,13 +23,13 @@
 		{"id":"f03ac63d3af29a2b","type":"text","text":"Probability ","x":-260,"y":-675,"width":250,"height":60,"color":"2"},
 		{"id":"4cd67fb88be21d1f","type":"text","text":"LInear Algebra","x":-260,"y":-575,"width":250,"height":60,"color":"2"},
 		{"id":"e600dbf4b9b99c60","type":"text","text":"Logarithims","x":-260,"y":-475,"width":250,"height":60,"color":"2"},
-		{"id":"a1860be50dfaa41f","type":"text","text":"Neural Networks & LLMs","x":-860,"y":-218,"width":250,"height":60,"color":"#fa0000"},
-		{"id":"d85d134eee65873d","type":"text","text":"Unsupervised Learning","x":-860,"y":-118,"width":250,"height":60,"color":"#fa0000"},
 		{"id":"6184adc66c44707c","type":"text","text":"Cross-validation & Over-fitting","x":-860,"y":-738,"width":250,"height":60,"color":"#fa0000"},
-		{"id":"0a34a9a7f3cb8d38","type":"text","text":"Regularization (Ridge/Lasso)","x":-860,"y":-418,"width":250,"height":60,"color":"#fa0000"},
-		{"id":"db67dd221086dc4d","type":"text","text":"Tree-Based Methods (Random Forests, XGBoost)","x":-860,"y":-318,"width":250,"height":60,"color":"#fa0000"},
 		{"id":"39e7ee59cd14563d","type":"text","text":"Evaluation Metrics","x":-860,"y":-838,"width":250,"height":60,"color":"#fa0000"},
-		{"id":"e1924239aae9ca6d","type":"text","text":"**Texts**\n\nhttps://artint.info/3e/html/ArtInt3e.html\n\nTariq Rashid - How to Build a Neural Network\n","x":-860,"y":-638,"width":250,"height":180,"color":"1"}
+		{"id":"e1924239aae9ca6d","type":"text","text":"**Texts**\n\nhttps://artint.info/3e/html/ArtInt3e.html\n\nTariq Rashid - How to Build a Neural Network\n","x":-610,"y":-238,"width":250,"height":180,"color":"1"},
+		{"id":"0a34a9a7f3cb8d38","type":"text","text":"Regularization (Ridge/Lasso)","x":-860,"y":-632,"width":250,"height":60,"color":"#fa0000"},
+		{"id":"db67dd221086dc4d","type":"text","text":"Tree-Based Methods (Random Forests, XGBoost)","x":-860,"y":-532,"width":250,"height":60,"color":"#fa0000"},
+		{"id":"a1860be50dfaa41f","type":"text","text":"Neural Networks & LLMs","x":-860,"y":-432,"width":250,"height":60,"color":"#fa0000"},
+		{"id":"d85d134eee65873d","type":"text","text":"Unsupervised Learning","x":-860,"y":-332,"width":250,"height":60,"color":"#fa0000"}
 	],
 	"edges":[
 		{"id":"79454f5b483f7d97","fromNode":"872b3d0749e8ed35","fromSide":"bottom","toNode":"ea914f6b4fbbcaf3","toSide":"top"},
@@ -37,12 +37,6 @@
 		{"id":"9710506197798e68","fromNode":"a75bf3ee54b0cb38","fromSide":"bottom","toNode":"ea396b328aa7a4c8","toSide":"top"},
 		{"id":"61db5cb8ba42cd22","fromNode":"a75bf3ee54b0cb38","fromSide":"bottom","toNode":"1330b4d0ed2ab333","toSide":"top"},
 		{"id":"46b9ba996b11fb9d","fromNode":"a75bf3ee54b0cb38","fromSide":"bottom","toNode":"de7983aa8d29774d","toSide":"top"},
-		{"id":"e72702021ad1ea81","fromNode":"872b3d0749e8ed35","fromSide":"bottom","toNode":"8d91a0fff03ecd32","toSide":"top"},
-		{"id":"0f0767ccbddb0b14","fromNode":"8d91a0fff03ecd32","fromSide":"bottom","toNode":"228e55c1711a2780","toSide":"top"},
-		{"id":"93b8219fdbcf5ad0","fromNode":"8d91a0fff03ecd32","fromSide":"bottom","toNode":"ec278596ddc05a85","toSide":"top"},
-		{"id":"e62a265be91ab340","fromNode":"8d91a0fff03ecd32","fromSide":"bottom","toNode":"01f0a500a621ea97","toSide":"top"},
-		{"id":"f08ea727b5d2f716","fromNode":"8d91a0fff03ecd32","fromSide":"bottom","toNode":"8e04c53370bf479d","toSide":"top"},
-		{"id":"4c6d277fa1f13f76","fromNode":"8d91a0fff03ecd32","fromSide":"right","toNode":"ae1b64775683bda9","toSide":"top"},
 		{"id":"a627de06d1d5dd3d","fromNode":"a1860be50dfaa41f","fromSide":"bottom","toNode":"af9c24d376fcf243","toSide":"top"}
 	]
 }

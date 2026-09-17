@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "62e38d8e65c9076f",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b61262b2031310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd05787e2d81f19f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Career Stuff/Career Manifesto Book/Impact Map 2.canvas",
+                "viewState": {
+                  "x": 449.6619931891596,
+                  "y": -968.4058486704575,
+                  "zoom": -0.5999999999999999
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Impact Map 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8361b315a1e0aa5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d86cafba63026c80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af1772071b452a3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3015acaa14b7b0fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "545b13a1c3d5fbd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5703125
+  },
+  "right": {
+    "id": "0379ad0e270565a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0772ed5c4e4fd568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e21970f78dc3a51e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Skill Canvas.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2c269493df675cc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skill Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fc767230b29eb740",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "06affc7af1adf155",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "44d4769d3ad9346c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skill Canvas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "af1772071b452a3c",
+  "lastOpenFiles": [
+    "SSHKEY.pub",
+    "SSHKEY",
+    "Ilovejesuschrist7+.pub",
+    "Ilovejesuschrist7+",
+    "Career Stuff/Career-Stuff",
+    "Career Stuff/Career-Stuff.git~",
+    "Career Stuff/Career Manifesto Book/Impact Map 1.canvas",
+    "Career Stuff/Career Manifesto Book/Impact Map 2.canvas",
+    "Career Stuff/Career Manifesto Book/Impact Map 1.md",
+    "Data Science Learning Roadmap/Python Track/Unit Tests.md",
+    "Career Stuff/Career Manifesto Book",
+    "Career Stuff",
+    "Data Science Learning Roadmap",
+    "Data Science Learning Roadmap/Python Track/Numpy/Arrays.md",
+    "Data Science Learning Roadmap/Skill Canvas.canvas",
+    "Data Science Learning Roadmap/Python Track/Libraries.md",
+    "Data Science Learning Roadmap/Python Track/Numpy",
+    "Data Science Learning Roadmap/README.md"
+  ]
+}

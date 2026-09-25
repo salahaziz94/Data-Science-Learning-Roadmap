@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"1471a2f6319a74ff","type":"text","text":"Family","x":-620,"y":0,"width":141,"height":258},
+		{"id":"5b7013f1365d162c","type":"text","text":"Work","x":-620,"y":258,"width":141,"height":258},
+		{"id":"606b276267841aac","type":"text","text":"- Sharing quality time with my wife and future kids\n- Spending time with family members that appreciate me rather than gossip/make issues","x":-480,"y":0,"width":235,"height":258},
+		{"id":"54f7840385948447","type":"text","text":"- Being analytical\n- Working indepndently\n- Seeing issues from multiple angles\n- Able to test ideas in a scientific way?\n- Working with data would be cool, I think","x":-480,"y":258,"width":235,"height":258},
+		{"id":"8b21e07a9abba6ea","type":"text","text":"Community","x":-620,"y":516,"width":140,"height":258},
+		{"id":"869d83e6fb06f95a","type":"text","text":"- Having a church I can attend that is family friendly \n- Able to have access to nice restaurants in the community\n- Shopping for books","x":-480,"y":516,"width":235,"height":258},
+		{"id":"ebbd90f9d6205fa4","type":"text","text":"- Able to have places to spend time with wife\n- Sports, maybe?\n- Hiking\n- Beach\n- Walk pet","x":-480,"y":774,"width":235,"height":258},
+		{"id":"eb5600aeefac8edf","type":"text","text":"Extracurricular","x":-620,"y":774,"width":140,"height":258},
+		{"id":"2209f434a84d2e0b","type":"text","text":"\n- People pleasing \n- Having to visit people I don't like\n- Having to accomadate others that make me feel small or judged\n","x":-245,"y":0,"width":235,"height":258},
+		{"id":"7e637070475979b2","type":"text","text":"- Having to compete (academia)\n- Lack of job security\n- Being micromanaged\n- Toxic job culture\n- Unethical or non-ideal company philosophy","x":-245,"y":258,"width":235,"height":258},
+		{"id":"3906ee91c261e104","type":"text","text":"- A family that has access to a good environment, things to do, etc.","x":-10,"y":0,"width":235,"height":258},
+		{"id":"83848badd5c90a5c","type":"text","text":"- Stable job location, or good location\n- A GOOD paying job, something close to or upwards of a six figure salary","x":-10,"y":258,"width":235,"height":258},
+		{"id":"358342a47c9527ee","type":"text","text":"- Dirty locations\n- Drugs\n- Poverty\n- Bad drivers\n- Bad manners/etiquette\n- Too much snow/too much heat","x":-245,"y":516,"width":235,"height":258},
+		{"id":"b8b95e7809584dc7","type":"text","text":"- A place for spiritual retreats (church)","x":-10,"y":516,"width":235,"height":258},
+		{"id":"596c889eeeb39aa5","type":"text","text":"- N/A","x":-245,"y":774,"width":235,"height":258},
+		{"id":"7b46d1125eb2547d","type":"text","text":"N/A","x":-10,"y":774,"width":235,"height":258},
+		{"id":"4b6f43e8bfecff29","type":"text","text":"Things I truly Enjoy or Would Truly Enjoy Doing","x":-480,"y":-60,"width":235,"height":60},
+		{"id":"a868c3f87fc8ed76","type":"text","text":"Things I Hate","x":-245,"y":-60,"width":235,"height":60},
+		{"id":"1e23d3a23e2a9645","type":"text","text":"Things It Would be Difficult to Live Without","x":-10,"y":-60,"width":235,"height":60}
+	],
+	"edges":[]
+}

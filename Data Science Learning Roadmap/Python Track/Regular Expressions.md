@@ -124,7 +124,7 @@ For example, if we wanted to replace the twitter handle https://www.twitter.com/
 url = input("URL: ").strip()
 
 #then we assign the sub function of regex into username
-username = r.sub(r"^(https?://)?(www\.)?twitter\.com/", "", url)
+username = re.sub(r"^(https?://)?(www\.)?twitter\.com/", "", url)
 #prints it
 print(f"Username: {username}")
 ```
@@ -135,7 +135,7 @@ print(f"Username: {username}")
 
 If I were to use regex, and I wanted to get back the group return of a username using r.search:
 ```
-matches = r.search(r"^(https?://)?(www\.)?twitter\.com/",(.+) "", url)
+matches = re.search(r"^(https?://)?(www\.)?twitter\.com/",(.+) "", url)
 
 ```
 
@@ -143,7 +143,7 @@ Essentially, the username variable is getting returned various groups: the 1st g
 
 Now, we can totally specify group(3) if we wanted to, using matches.group(3), or I can use the non-capturing version of paranthesis with a question-mark colon first inside it: (?:)
 ```
-matches = r.search(r"^(?:https?://)?(?:www\.)?twitter\.com/",(.+) "", url)
+matches = re.search(r"^(?:https?://)?(?:www\.)?twitter\.com/",(.+) "", url)
 ```
 
 Note that you can specify a group beyond just calling it by its index (1), or (2), etc.

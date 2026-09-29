@@ -26,6 +26,7 @@ We may just use raw text for the pattern, but we can actually implement various 
 		\S not a whitespace character
 		\w alphanumeric and underscores
 		\W not alphanumeric and underscores
+		\b word boundry
 For example, if we wanted an email address, the pattern could be ".@", where the "." means _anything_ before an @ symbol, which represents a username. We do want to add a * so that it is more than just one possible character, and also to the right of the @ for the domain:
 	pattern: _".*@.*"_  
 Using a + is necessary if we want at least one repetition, so nothing is accepted if we used a *.

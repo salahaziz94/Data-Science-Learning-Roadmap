@@ -30,7 +30,7 @@
 		{"id":"1330b4d0ed2ab333","type":"text","text":"tidyverse/ggplot/tidymodels","x":-1507,"y":-525,"width":216,"height":90,"color":"#0000fa"},
 		{"id":"e05394711970e7ce","type":"text","text":"[[SQL Track]]","x":-1231,"y":-858,"width":216,"height":60,"color":"6"},
 		{"id":"de7983aa8d29774d","type":"text","text":"**Texts** \n\nISLR","x":-1520,"y":-388,"width":242,"height":180,"color":"#0000fa"},
-		{"id":"7b105937528b0619","type":"text","text":"[[arrays]]","x":-1843,"y":-642,"width":97,"height":50,"color":"#00fa00"}
+		{"id":"7b105937528b0619","type":"text","text":"[[Arrays]]","x":-1843,"y":-642,"width":97,"height":50,"color":"#00fa00"}
 	],
 	"edges":[
 		{"id":"79454f5b483f7d97","fromNode":"872b3d0749e8ed35","fromSide":"bottom","toNode":"ea914f6b4fbbcaf3","toSide":"top"},

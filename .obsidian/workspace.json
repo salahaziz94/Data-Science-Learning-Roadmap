@@ -11,17 +11,14 @@
             "id": "fd05787e2d81f19f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Career Stuff/Career Manifesto Book/Impact Map 2.canvas",
-                "viewState": {
-                  "x": 449.6619931891596,
-                  "y": -968.4058486704575,
-                  "zoom": -0.5999999999999999
-                }
+                "file": "Data Science Learning Roadmap/Python Track/CS50P/File I-O.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Impact Map 2"
+              "icon": "lucide-file",
+              "title": "File I-O"
             }
           }
         ]
@@ -191,26 +188,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "af1772071b452a3c",
+  "active": "fd05787e2d81f19f",
   "lastOpenFiles": [
+    "Data Science Learning Roadmap/Skill Canvas.canvas",
+    "Data Science Learning Roadmap/Python Track/CS50P/Et-Cetera.md",
     "README.md",
+    "Data Science Learning Roadmap/Python Track/Object-Oriented Programming.md",
+    "Data Science Learning Roadmap/Python Track/Particular_Libraries/Numpy/Arrays.md",
+    "Data Science Learning Roadmap/Python Track/Particular_Libraries/Numpy",
+    "Data Science Learning Roadmap/Python Track/Particular_Libraries",
+    "Data Science Learning Roadmap/Python Track/CS50P/Unit Tests.md",
+    "Data Science Learning Roadmap/Python Track/CS50P/Regular Expressions.md",
+    "Data Science Learning Roadmap/Python Track/CS50P/Object-Oriented Programming.md",
+    "Data Science Learning Roadmap/Python Track/CS50P/Loops.md",
+    "Data Science Learning Roadmap/Python Track/CS50P/Libraries.md",
+    "Data Science Learning Roadmap/Python Track/CS50P/File I-O.md",
+    "Data Science Learning Roadmap/Python Track/CS50P/Exceptions.md",
+    "Data Science Learning Roadmap/Python Track/CS50P",
+    "Base.base",
+    "Data Science Learning Roadmap/Python Track/Libraries.md",
+    "Data Science Learning Roadmap/Python Track/Unit Tests.md",
+    "Data Science Learning Roadmap/Python Track/File I-O.md",
+    "Data Science Learning Roadmap/Python Track/Regular Expressions.md",
+    "Data Science Learning Roadmap/Python Track/Object-Oriented Programming.ipynb",
+    "Career Stuff/Career Manifesto Book/Happiness Matrix.canvas",
+    "Career Stuff/Career Manifesto Book/Euology.md",
+    "Career Stuff/Career Manifesto Book/Impact Map 2.canvas",
     "SSHKEY.pub",
     "SSHKEY",
     "Ilovejesuschrist7+.pub",
     "Ilovejesuschrist7+",
     "Career Stuff/Career-Stuff",
-    "Career Stuff/Career-Stuff.git~",
     "Career Stuff/Career Manifesto Book/Impact Map 1.canvas",
-    "Career Stuff/Career Manifesto Book/Impact Map 2.canvas",
     "Career Stuff/Career Manifesto Book/Impact Map 1.md",
-    "Data Science Learning Roadmap/Python Track/Unit Tests.md",
-    "Career Stuff/Career Manifesto Book",
-    "Career Stuff",
-    "Data Science Learning Roadmap",
     "Data Science Learning Roadmap/Python Track/Numpy/Arrays.md",
-    "Data Science Learning Roadmap/Skill Canvas.canvas",
-    "Data Science Learning Roadmap/Python Track/Libraries.md",
-    "Data Science Learning Roadmap/Python Track/Numpy",
     "Data Science Learning Roadmap/README.md"
   ]
 }

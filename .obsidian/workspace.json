@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science Learning Roadmap/Python Track/CS50P/File I-O.md",
+                "file": "Data Science Learning Roadmap/Programming/SQL/SQLBolt/9. Creating Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File I-O"
+              "title": "9. Creating Tables"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5703125
+    "width": 312.71484375
   },
   "right": {
     "id": "0379ad0e270565a7",
@@ -190,21 +190,34 @@
   },
   "active": "fd05787e2d81f19f",
   "lastOpenFiles": [
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/5. Complete SELECT query and Order of Execution.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/4. Queries with Expressions.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/3. NULLS.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/2. JOINS.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/9. Creating Tables.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/8. Deleting Rows.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/7. Updating Rows.md",
     "Data Science Learning Roadmap/Skill Canvas.canvas",
-    "Data Science Learning Roadmap/Python Track/CS50P/Et-Cetera.md",
+    "Data Science Learning Roadmap/Programming/Python/ISLP",
+    "Data Science Learning Roadmap/Programming",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/1. SELECT Queries.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt/6. Inserting Rows.md",
+    "Data Science Learning Roadmap/Programming/SQL/SQLBolt",
+    "Data Science Learning Roadmap/Programming/Python/Python for Data Analysis/Numpy/Arrays.md",
+    "Data Science Learning Roadmap/Programming/SQL",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/File I-O.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Et-Cetera.md",
     "README.md",
     "Data Science Learning Roadmap/Python Track/Object-Oriented Programming.md",
-    "Data Science Learning Roadmap/Python Track/Particular_Libraries/Numpy/Arrays.md",
-    "Data Science Learning Roadmap/Python Track/Particular_Libraries/Numpy",
-    "Data Science Learning Roadmap/Python Track/Particular_Libraries",
-    "Data Science Learning Roadmap/Python Track/CS50P/Unit Tests.md",
-    "Data Science Learning Roadmap/Python Track/CS50P/Regular Expressions.md",
-    "Data Science Learning Roadmap/Python Track/CS50P/Object-Oriented Programming.md",
-    "Data Science Learning Roadmap/Python Track/CS50P/Loops.md",
-    "Data Science Learning Roadmap/Python Track/CS50P/Libraries.md",
-    "Data Science Learning Roadmap/Python Track/CS50P/File I-O.md",
-    "Data Science Learning Roadmap/Python Track/CS50P/Exceptions.md",
-    "Data Science Learning Roadmap/Python Track/CS50P",
+    "Data Science Learning Roadmap/Programming/Python/Python for Data Analysis/Numpy",
+    "Data Science Learning Roadmap/Programming/Python/Python for Data Analysis",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Unit Tests.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Regular Expressions.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Object-Oriented Programming.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Loops.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Libraries.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P/Exceptions.md",
+    "Data Science Learning Roadmap/Programming/Python/CS50P",
     "Base.base",
     "Data Science Learning Roadmap/Python Track/Libraries.md",
     "Data Science Learning Roadmap/Python Track/Unit Tests.md",
@@ -215,13 +228,7 @@
     "Career Stuff/Career Manifesto Book/Euology.md",
     "Career Stuff/Career Manifesto Book/Impact Map 2.canvas",
     "SSHKEY.pub",
-    "SSHKEY",
-    "Ilovejesuschrist7+.pub",
-    "Ilovejesuschrist7+",
-    "Career Stuff/Career-Stuff",
     "Career Stuff/Career Manifesto Book/Impact Map 1.canvas",
-    "Career Stuff/Career Manifesto Book/Impact Map 1.md",
-    "Data Science Learning Roadmap/Python Track/Numpy/Arrays.md",
-    "Data Science Learning Roadmap/README.md"
+    "Career Stuff/Career Manifesto Book/Impact Map 1.md"
   ]
 }
